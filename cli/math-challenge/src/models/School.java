@@ -1,7 +1,6 @@
 package models;
 
 
-
 public class School {
     private int id;
     private String name;
@@ -81,4 +80,5 @@ public class School {
                 '}';
     }
 }
+
 

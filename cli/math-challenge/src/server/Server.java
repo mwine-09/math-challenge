@@ -1,6 +1,6 @@
 package server;
 
-import dbConfig.DbConfig;
+import database.DbConfig;
 import java.sql.Connection;
 import java.util.ArrayList;
 import java.util.List;
