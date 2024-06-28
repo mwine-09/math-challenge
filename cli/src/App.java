@@ -1,4 +1,3 @@
-import server.Server;
 
 public class App {
     // // create our database config here

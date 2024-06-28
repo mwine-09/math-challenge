@@ -1,11 +1,12 @@
 package server;
 
-import dbConfig.DbConfig;
+
 import java.sql.Connection;
 import java.util.ArrayList;
 import java.util.List;
 import logger.Logger;
-import models.School;
+
+ 
 
 
 public class Server {
